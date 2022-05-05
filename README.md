@@ -6,3 +6,6 @@ Integrating UNS domain resolution in various existing dApps.
 ## #1 Ethfolio
 link to dApp: https://www.ethfolio.me/  
 pull request: https://github.com/SouravInsights/ethfolio/pull/1
+
+##2 #2 Dashboar
+link to dApp: https://dashboar.netlify.app/
